@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of this analysis was to develop machine learning models that predict whether a loan from LendingClub will be high risk or not. To achieve this goal, I used various machine learning models, including Random Forest Classifier, Logistic Regression, and AdaBoost Classifier. The data set provided contained information on various financial attributes of each loan, such as loan amount, interest rate, term, and borrower's income, among others.
